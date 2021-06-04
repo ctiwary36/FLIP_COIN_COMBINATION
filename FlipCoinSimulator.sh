@@ -1,0 +1,1 @@
+echo "FLIP_COIN_SIMULATION"
